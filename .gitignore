@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/
 desktop.ini
 Visualisation/altair-data-*.json
+*.dirlock
+*.lock

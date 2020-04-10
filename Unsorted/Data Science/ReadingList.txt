@@ -1,0 +1,21 @@
+# Resources
+https://www.deeplearningbook.org/
+https://www.fast.ai/
+https://www.kaggle.com/
+http://course18.fast.ai/part2.html
+
+
+# Frameworks
+https://keras.io/
+https://www.tensorflow.org/versions/r1.9/api_docs/python/tf
+https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
+
+
+https://github.com/HackerPoet/FaceEditor/blob/master/encoder.py
+http://localhost:8888/notebooks/Data%20Science/cookbook-2nd-code-master/chapter01_basic/02_pandas.ipynb
+http://localhost:8888/notebooks/Data%20Science/LoanData/XOR%2Bwith%2BTensorFlow.ipynb
+http://localhost:8888/notebooks/Data%20Science/LoanData/PD_Mach_learning.ipynb
+
+
+
+http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
