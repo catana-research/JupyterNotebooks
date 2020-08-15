@@ -5,3 +5,5 @@ Visualisation/altair-data-*.json
 *.dirlock
 *.lock
 *.DESKTOP-BP59RPT
+Projects/logs_keras
+Projects/*.h5
