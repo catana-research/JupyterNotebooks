@@ -7,3 +7,5 @@ Visualisation/altair-data-*.json
 *.DESKTOP-BP59RPT
 Projects/logs_keras
 Projects/*.h5
+NeuralNetworks/correlation/
+NeuralNetworks/Series/
